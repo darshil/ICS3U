@@ -3,7 +3,7 @@ Grade 11 Computer Science Assignments and Projects
 
 #### Overview
 
-#  | Description | # of Assignments
+ No  | Description | # of Assignments
 ------------- | ------------- | ----------
 JA1 | Introduction to Computers | 4 
 JA2 | Intro to Java Programming
